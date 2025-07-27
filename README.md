@@ -22,3 +22,6 @@ A console-based Library Management System built using Java and MySQL. This proje
 - JDBC (Java Database Connectivity)
 - MySQL (via MySQL Workbench)
 - IntelliJ IDEA (or any Java IDE)
+
+
+- By Vinod Kumar S
